@@ -22,11 +22,13 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "backgroundColor": "#FFFFFF",
+        "useNextNotificationsApi" : true
       }
     },
     "web": {
       "favicon": "./assets/favicon.png"
     }
+    
   }
 }
